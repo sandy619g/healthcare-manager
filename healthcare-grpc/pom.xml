@@ -42,7 +42,7 @@
 		<junit-jupiter.version>5.2.0</junit-jupiter.version>
 		<directory-maven-plugin.version>0.3.1</directory-maven-plugin.version>
 		<maven-install-plugin.version>2.5.2</maven-install-plugin.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
